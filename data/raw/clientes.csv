@@ -1,0 +1,11 @@
+id_cliente,nombre,email,telefono,fecha_registro,ciudad,monto_compra
+001,  Cliente   Alfa  ,alfa@example.invalid,0000000001,2026-01-10,  Ciudad   Norte  ,120.50
+002,Cliente Beta,beta@example.invalid,0000000002,2026-01-11,Ciudad Sur,80.00
+003,Cliente Gamma,,0000000003,2026-01-12,Ciudad Este,45.00
+002,Cliente Beta,beta@example.invalid,0000000002,2026-01-11,Ciudad Sur,80.00
+004, Cliente Delta ,delta@example.invalid,,2026-01-13,Ciudad Oeste,200.00
+005,Cliente Epsilon,epsilon@example.invalid,0000000005,2026-01-14,   ,
+006,Cliente Zeta, zeta@example.invalid ,0000000006,2026-01-15,Ciudad Norte,0.00
+001,  Cliente   Alfa  ,alfa@example.invalid,0000000001,2026-01-10,  Ciudad   Norte  ,120.50
+007,Cliente Eta,eta@example.invalid,0000000007,2026-01-16,Ciudad Sur,99.90
+008,Cliente Theta,theta@example.invalid,0000000008,2026-01-17,Ciudad Este,15.00
